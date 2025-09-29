@@ -1,0 +1,18 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Python (por si se generan utilitarios)
+__pycache__/
+*.py[cod]
+
+# Zips y exportables
+*.zip
+dist/
+build/
