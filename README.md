@@ -38,8 +38,6 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 ```
 .
 ├── docs/               # Reporte, notas, referencias
-├── hardware/           # Esquemas
-├── images/             # Fotos del armado, diagramas
 ├── src/
 │   ├── BOM.csv         # Lista de materiales con costos
 │   └── diagram.txt     # Sketch ASCII de referencia
