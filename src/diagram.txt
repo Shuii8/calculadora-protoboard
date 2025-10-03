@@ -1,5 +1,0 @@
-Sketch ASCII (borrador):
-[ A botones ] -> [ 74HC161 ] --\
-                                 >-- sel op --> [ 74HC283 ] -> [ Accum ] -> [ CD4511 ] -> [ 7seg ]
-[ B botones ] -> [ 74HC161 ] --/           \
-                                         [ 74HC04 ] (resta)  [ 74HC595 ] (×)
