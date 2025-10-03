@@ -2,18 +2,18 @@
 
 Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** montada en **protoboard**. Incluye contadores para operandos, complemento a dos para resta, algoritmo shift‑add para multiplicación, comparador para validación y visualización en **displays de 7 segmentos**.
 
-## ✨ Funcionalidad
+##  Funcionalidad
 - **Operaciones**: `A + B`, `A − B` (complemento a 2), `A × B` (shift‑add).
 - **Entradas**: botonera para selector de operación y botón de cálculo.
 - **Comparación**:`A>B`, `A=B`, `A<B`.
 - **Salida**: Displays de 7 segmentos controlados por BCD→7seg.
 
-## 🧱 Diagrama de bloques (borrador)
+##  Diagrama de bloques (borrador)
 ```
 
 ```
 
-## 📦 Lista de componentes estimados:
+##  Lista de componentes estimados:
 
 
 | Ítem | Cant. | Ref. sugerida | Nota |
@@ -34,7 +34,7 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 
 
 
-## 🗂️ Estructura de carpetas
+##  Estructura de carpetas
 ```
 .
 ├── docs/               # Reporte, notas, referencias
@@ -48,7 +48,7 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 
 - Fotos/Vídeos cortos funcionando.
 
-## 📄 Licencia
+##  Licencia
 Este proyecto se publica bajo **MIT** (ver `LICENSE`).
 
 ---
