@@ -46,8 +46,6 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 └── README.md
 ```
 
-- Fotos/Vídeos cortos funcionando.
-
 ##  Licencia
 Este proyecto se publica bajo **MIT** (ver `LICENSE`).
 
