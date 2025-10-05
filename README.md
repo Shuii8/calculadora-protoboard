@@ -8,6 +8,9 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 - **Comparación**:`A>B`, `A=B`, `A<B`.
 - **Salida**: Displays de 7 segmentos controlados por BCD→7seg.
 
+##  Link de video de demostración
+- https://youtu.be/_c6zKmrw680
+
 
 ##  Licencia
 Este proyecto se publica bajo **MIT** (ver `LICENSE`).
