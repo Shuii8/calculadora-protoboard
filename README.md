@@ -1,4 +1,4 @@
-# Calculadora Digital en Protoboard (TTL/CMOS)
+# Calculadora Digital en Protoboard
 
 Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** montada en **protoboard**. Incluye contadores para operandos, complemento a dos para resta, algoritmo shift‑add para multiplicación, comparador para validación y visualización en **displays de 7 segmentos**.
 
@@ -8,11 +8,6 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 - **Comparación**:`A>B`, `A=B`, `A<B`.
 - **Salida**: Displays de 7 segmentos controlados por BCD→7seg.
 
-##  Diagrama de bloques (borrador)
-```
-<img width="1038" height="533" alt="Captura de pantalla 2025-10-05 000048" src="https://github.com/user-attachments/assets/68b3f0f1-ce98-4afb-bc05-2128d06380d2" />
-
-```
 
 ##  Licencia
 Este proyecto se publica bajo **MIT** (ver `LICENSE`).
