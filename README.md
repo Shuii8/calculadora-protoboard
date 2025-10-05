@@ -10,40 +10,8 @@ Proyecto académico: calculadora de **8 bits** que **suma, resta y multiplica** 
 
 ##  Diagrama de bloques (borrador)
 ```
+<img width="1038" height="533" alt="Captura de pantalla 2025-10-05 000048" src="https://github.com/user-attachments/assets/68b3f0f1-ce98-4afb-bc05-2128d06380d2" />
 
-```
-
-##  Lista de componentes estimados:
-
-
-| Ítem | Cant. | Ref. sugerida | Nota |
-|---|---:|---|---|
-| Protoboard full-size | 1 | Genérico | 830 puntos o similar |
-| Sumador 4 bit | 1 | 74HC283 (DIP) | Sumador binario |
-| Comparador 4 bit | 1 | 74HC85 (DIP) | Indicadores A>B, A=B, A<B |
-| Contador binario 4 bit | 2 | 74HC161 (DIP) | Para A y B |
-| Inversor hex | 1 | 74HC04 | Complemento a 2 / debounce |
-| Registro de desplazamiento | 1 | 74HC595 | Shift‑add (×) o manejo de segmentos |
-| Driver BCD→7 seg | 2 | CD4511 | Para 7 segmentos |
-| Display 7 segmentos | 2 | ánodo común | 0.56” clásico |
-| Botones táctiles | 6 | 12×12 mm | A↑, A↓, B↑, B↓, Op, Calc |
-| Resistencias 220 Ω | 8–12 | — | Limitación de segmentos/LEDs |
-| Transistores NPN | 2 | PN2222/2N3904 | Energizar dígitos/LEDs si aplica |
-| Regulador 5V | 1 | LM7805 | + capacitores 100 nF y 10 µF |
-| Jumpers | 1 set | — | Puentes para protoboard |
-
-
-
-##  Estructura de carpetas
-```
-.
-├── docs/               # Reporte, notas, referencias
-├── src/
-│   ├── BOM.csv         # Lista de materiales con costos
-│   └── diagram.txt     # Sketch ASCII de referencia
-├── .gitignore
-├── LICENSE             # MIT 
-└── README.md
 ```
 
 ##  Licencia
